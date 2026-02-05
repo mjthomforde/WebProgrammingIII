@@ -1,4 +1,4 @@
 This is file number 1
 This line was an edit to file number 1 using notepad
 This line was an edit made in GitHub
-
+This is the 3rd edit to file number 1
